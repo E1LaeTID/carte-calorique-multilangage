@@ -1,0 +1,14 @@
+{
+  "name": "map_ts",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
