@@ -1,0 +1,5 @@
+[project]
+name = "map-python"
+version = "0.1.0"
+description = "Universal mapping model - Python implementation"
+requires-python = ">=3.11"
